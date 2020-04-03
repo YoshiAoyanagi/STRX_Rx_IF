@@ -1,4 +1,5 @@
-#define PDURESET      A0 //output PC0 
+//strx_rx
+#define PDURESET      A0 //output PC0_ 
 #define RX_STS        A1 //GPIO IO3 PC1 
 #define COMNM_VREF    A2 //COMM_voltage status input PC2
 #define BDtemp        A3 //LM61 Analog temperature sensor(Option) PC3
